@@ -51,7 +51,7 @@ aws sts assume-role --role-arn "arn:aws:iam::<aws-account-id>:role/eks_admin" --
 aws sts assume-role --role-arn "arn:aws:iam::<aws-account-id>:role/eks_readonly" --role-session-name eks_readonly_role
 ```
 
-## Destroy demo environment
+## Clear demo environment
 ```bash 
 $ terraform destroy -var-file=terraform.tfvars
 ```
