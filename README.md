@@ -4,7 +4,7 @@ This is a demo on using Terraform to provision an EKS cluster and using Helm to 
 
 Demonstration is based on HashiCorp course [Provision an AWS EKS Cluster](https://learn.hashicorp.com/terraform/kubernetes/provision-eks-cluster), [Terraform aws modules](https://github.com/terraform-aws-modules) such as terraform-aws-vpc, terraform-aws-eks and others.
 
-## Requirements
+Push request could be found [here](https://github.com/HenrikasRamonas/atlantis-test).
 
 ## Prerequisites
 Demonstration is performed from windows machine via Windows PowerShell.
