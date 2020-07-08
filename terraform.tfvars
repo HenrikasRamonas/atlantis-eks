@@ -1,0 +1,8 @@
+region="us-east-1"
+aws_access_key_atlantis="<VALUE>"
+aws_secret_access_key_atlantis="<VALUE>"
+github_user="<VALUE>"
+github_token="<VALUE>"
+github_secret="VALUE"
+github_whitelist="VALUE/*"
+ssh_public_key="ssh-rsa VALUE"
